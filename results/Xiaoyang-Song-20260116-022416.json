@@ -1,0 +1,54 @@
+{
+  "participants": {
+    "data_integrator": "019bbe37-788e-7832-85d6-5bbb3f147396"
+  },
+  "results": [
+    {
+      "score": 0,
+      "max_score": 100,
+      "difficulty": "medium",
+      "details": {
+        "columns": {
+          "score": 0,
+          "max": 20,
+          "expected": [
+            "num_trades",
+            "total_trade_volume",
+            "customer_name",
+            "num_accounts",
+            "customer_id",
+            "total_balance",
+            "total_trade_value",
+            "country",
+            "symbols_traded"
+          ],
+          "submitted": [
+            "### Step 2: Join Tables"
+          ],
+          "missing": [
+            "num_trades",
+            "total_trade_volume",
+            "customer_name",
+            "num_accounts",
+            "customer_id",
+            "total_balance",
+            "total_trade_value",
+            "country",
+            "symbols_traded"
+          ],
+          "extra": [
+            "### Step 2: Join Tables"
+          ]
+        },
+        "error": "Missing required columns including customer_id"
+      },
+      "llm_feedback": {
+        "enabled": false,
+        "message": "LLM feedback disabled - GEMINI_API_KEY not configured"
+      },
+      "purple_agent_url": "http://data_integrator:9009/",
+      "submitted_rows": 0,
+      "expected_rows": 120
+    }
+  ]
+}
