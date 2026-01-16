@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019bbe1a-7e87-7083-a9cf-43f3be032c87"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}"}
+
+[[participants]]
+agentbeats_id = "019bbe37-788e-7832-85d6-5bbb3f147396"
+name = "data_integrator"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}"}
+
+[config]
+# Add your assessment config here
+difficulty = "easy"
