@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/xiaoyang-song/data-matchmaker-benchmark@sha256:fb99fa5aed43acf689b7b757066cc6620b28764c28934e209bc5f983d9e864cb",
+    "data_integrator": "ghcr.io/xiaoyang-song/baseline-data-matchmaker-agent@sha256:833678c8b05499f2afb949d24485d96926ea376dc8ef402ed254adb81241baec",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T02:21:58Z",
+  "github_actions": {
+    "run_url": "https://github.com/Xiaoyang-Song/data-matchmaker-bench/actions/runs/21053387865",
+    "run_logs_url": "https://api.github.com/repos/Xiaoyang-Song/data-matchmaker-bench/actions/runs/21053387865/logs",
+    "ref": "refs/heads/Xiaoyang-Song-patch-11",
+    "sha": "d71e8388aaa8de325d07642dc68afe0e6ae95866",
+    "repository_url": "https://github.com/Xiaoyang-Song/data-matchmaker-bench",
+    "workflow_ref": "Xiaoyang-Song/data-matchmaker-bench/.github/workflows/run-scenario.yml@refs/heads/Xiaoyang-Song-patch-11",
+    "workflow_sha": "d71e8388aaa8de325d07642dc68afe0e6ae95866"
+  }
+}
